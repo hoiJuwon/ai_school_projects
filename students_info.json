@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "name": "홍길동",
+      "age": "18",
+      "userid": "gildong",
+      "password": "1234"
+    },
+    {
+      "name": "가나다",
+      "age": "18",
+      "userid": "abcd",
+      "password": "1234"
+    },
+    {
+      "name": "호령님",
+      "age": "18",
+      "userid": "ho",
+      "password": "1234"
+    }
+  ]
+}
